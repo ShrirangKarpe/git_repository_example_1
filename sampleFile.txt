@@ -1,1 +1,2 @@
 This is the new file with the name sampleFile and this is added to the repository.
+New changes added.
